@@ -356,12 +356,12 @@ Let’s build the future together! 🌟
       links: [
         {
           type: "Website",
-          href: "https://10xsai.github.io/portfolio",
+          href: "https://2023.10xsai.com/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/10xsai/portfolio",
+          href: "https://github.com/10xsai/portfolio-2023",
           icon: <Icons.github className="size-3" />,
         },
       ],
