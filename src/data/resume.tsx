@@ -340,7 +340,7 @@ Let’s build the future together! 🌟
   projects: [
     {
       title: "Portfolio 2023",
-      href: "https://magicui.design",
+      href: "https://2023.10xsai.com/",
       dates: "Apr 2023 - May 2023",
       active: true,
       description:
@@ -399,7 +399,7 @@ Let’s build the future together! 🌟
     },
     {
       title: "WorkBud Portal",
-      href: "https://llm.report",
+      href: "https://www.workbud.com/",
       dates: "Dec 2021 - Jan 2022",
       active: true,
       description:
@@ -418,7 +418,7 @@ Let’s build the future together! 🌟
     },
     {
       title: "Resource Management Tool",
-      href: "https://automatic.chat",
+      href: "#",
       dates: "Jun 2021 - Mar 2023",
       active: true,
       description:
