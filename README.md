@@ -1,5 +1,5 @@
 <div align="center">
-<img alt="Portfolio" src="https://github.com/10xsai/portfolio/blob/main/portfolio-latest.gif" width="90%">
+<img alt="Portfolio" src="https://github.com/10xsai/portfolio/blob/main/portfolio-latest.gif" width="100%">
 </div>
 
 # Portfolio [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2F10xsai%2Fportfolio)
