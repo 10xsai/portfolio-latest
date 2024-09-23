@@ -70,7 +70,7 @@ export function SkillsCard({ className }: { className?: string }) {
     if (allRefsReady) {
       setRefsReady(true);
     }
-  }, [domainRefs.current, techRefs.current]);
+  }, []);
 
   return (
     <div
